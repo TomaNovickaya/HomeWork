@@ -1,0 +1,15 @@
+E:\Тома\Учеба\Project\HW_3\obj\Debug\net7.0\HW_3.csproj.AssemblyReference.cache
+E:\Тома\Учеба\Project\HW_3\obj\Debug\net7.0\HW_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Тома\Учеба\Project\HW_3\obj\Debug\net7.0\HW_3.AssemblyInfoInputs.cache
+E:\Тома\Учеба\Project\HW_3\obj\Debug\net7.0\HW_3.AssemblyInfo.cs
+E:\Тома\Учеба\Project\HW_3\obj\Debug\net7.0\HW_3.csproj.CoreCompileInputs.cache
+E:\Тома\Учеба\Project\HW_3\bin\Debug\net7.0\HW_3.exe
+E:\Тома\Учеба\Project\HW_3\bin\Debug\net7.0\HW_3.deps.json
+E:\Тома\Учеба\Project\HW_3\bin\Debug\net7.0\HW_3.runtimeconfig.json
+E:\Тома\Учеба\Project\HW_3\bin\Debug\net7.0\HW_3.dll
+E:\Тома\Учеба\Project\HW_3\bin\Debug\net7.0\HW_3.pdb
+E:\Тома\Учеба\Project\HW_3\obj\Debug\net7.0\HW_3.dll
+E:\Тома\Учеба\Project\HW_3\obj\Debug\net7.0\refint\HW_3.dll
+E:\Тома\Учеба\Project\HW_3\obj\Debug\net7.0\HW_3.pdb
+E:\Тома\Учеба\Project\HW_3\obj\Debug\net7.0\HW_3.genruntimeconfig.cache
+E:\Тома\Учеба\Project\HW_3\obj\Debug\net7.0\ref\HW_3.dll
