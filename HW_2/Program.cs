@@ -17,11 +17,12 @@ if (numberA>numberB)
 else
     {
                    max = numberB;
+    }
           if (numberC>max)
    {
      max = numberC;
    }
-       }
+       //}
    Console.WriteLine($"Максимальное число - {max}"); 
     
     
