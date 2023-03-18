@@ -1,0 +1,15 @@
+E:\Тома\Учеба\Project\HW_18_03\HW_18_03_2\bin\Debug\net7.0\HW_18_03_2.exe
+E:\Тома\Учеба\Project\HW_18_03\HW_18_03_2\bin\Debug\net7.0\HW_18_03_2.deps.json
+E:\Тома\Учеба\Project\HW_18_03\HW_18_03_2\bin\Debug\net7.0\HW_18_03_2.runtimeconfig.json
+E:\Тома\Учеба\Project\HW_18_03\HW_18_03_2\bin\Debug\net7.0\HW_18_03_2.dll
+E:\Тома\Учеба\Project\HW_18_03\HW_18_03_2\bin\Debug\net7.0\HW_18_03_2.pdb
+E:\Тома\Учеба\Project\HW_18_03\HW_18_03_2\obj\Debug\net7.0\HW_18_03_2.csproj.AssemblyReference.cache
+E:\Тома\Учеба\Project\HW_18_03\HW_18_03_2\obj\Debug\net7.0\HW_18_03_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Тома\Учеба\Project\HW_18_03\HW_18_03_2\obj\Debug\net7.0\HW_18_03_2.AssemblyInfoInputs.cache
+E:\Тома\Учеба\Project\HW_18_03\HW_18_03_2\obj\Debug\net7.0\HW_18_03_2.AssemblyInfo.cs
+E:\Тома\Учеба\Project\HW_18_03\HW_18_03_2\obj\Debug\net7.0\HW_18_03_2.csproj.CoreCompileInputs.cache
+E:\Тома\Учеба\Project\HW_18_03\HW_18_03_2\obj\Debug\net7.0\HW_18_03_2.dll
+E:\Тома\Учеба\Project\HW_18_03\HW_18_03_2\obj\Debug\net7.0\refint\HW_18_03_2.dll
+E:\Тома\Учеба\Project\HW_18_03\HW_18_03_2\obj\Debug\net7.0\HW_18_03_2.pdb
+E:\Тома\Учеба\Project\HW_18_03\HW_18_03_2\obj\Debug\net7.0\HW_18_03_2.genruntimeconfig.cache
+E:\Тома\Учеба\Project\HW_18_03\HW_18_03_2\obj\Debug\net7.0\ref\HW_18_03_2.dll
