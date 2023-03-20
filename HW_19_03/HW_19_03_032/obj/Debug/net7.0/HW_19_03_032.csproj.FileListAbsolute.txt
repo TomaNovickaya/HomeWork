@@ -1,0 +1,15 @@
+E:\Тома\Учеба\Project\HW_19_03\HW_19_03_032\bin\Debug\net7.0\HW_19_03_032.exe
+E:\Тома\Учеба\Project\HW_19_03\HW_19_03_032\bin\Debug\net7.0\HW_19_03_032.deps.json
+E:\Тома\Учеба\Project\HW_19_03\HW_19_03_032\bin\Debug\net7.0\HW_19_03_032.runtimeconfig.json
+E:\Тома\Учеба\Project\HW_19_03\HW_19_03_032\bin\Debug\net7.0\HW_19_03_032.dll
+E:\Тома\Учеба\Project\HW_19_03\HW_19_03_032\bin\Debug\net7.0\HW_19_03_032.pdb
+E:\Тома\Учеба\Project\HW_19_03\HW_19_03_032\obj\Debug\net7.0\HW_19_03_032.csproj.AssemblyReference.cache
+E:\Тома\Учеба\Project\HW_19_03\HW_19_03_032\obj\Debug\net7.0\HW_19_03_032.GeneratedMSBuildEditorConfig.editorconfig
+E:\Тома\Учеба\Project\HW_19_03\HW_19_03_032\obj\Debug\net7.0\HW_19_03_032.AssemblyInfoInputs.cache
+E:\Тома\Учеба\Project\HW_19_03\HW_19_03_032\obj\Debug\net7.0\HW_19_03_032.AssemblyInfo.cs
+E:\Тома\Учеба\Project\HW_19_03\HW_19_03_032\obj\Debug\net7.0\HW_19_03_032.csproj.CoreCompileInputs.cache
+E:\Тома\Учеба\Project\HW_19_03\HW_19_03_032\obj\Debug\net7.0\HW_19_03_032.dll
+E:\Тома\Учеба\Project\HW_19_03\HW_19_03_032\obj\Debug\net7.0\refint\HW_19_03_032.dll
+E:\Тома\Учеба\Project\HW_19_03\HW_19_03_032\obj\Debug\net7.0\HW_19_03_032.pdb
+E:\Тома\Учеба\Project\HW_19_03\HW_19_03_032\obj\Debug\net7.0\HW_19_03_032.genruntimeconfig.cache
+E:\Тома\Учеба\Project\HW_19_03\HW_19_03_032\obj\Debug\net7.0\ref\HW_19_03_032.dll
