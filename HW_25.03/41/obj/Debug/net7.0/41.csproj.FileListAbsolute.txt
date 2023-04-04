@@ -1,0 +1,15 @@
+E:\Тома\Учеба\Project\HW_25.03\41\bin\Debug\net7.0\41.exe
+E:\Тома\Учеба\Project\HW_25.03\41\bin\Debug\net7.0\41.deps.json
+E:\Тома\Учеба\Project\HW_25.03\41\bin\Debug\net7.0\41.runtimeconfig.json
+E:\Тома\Учеба\Project\HW_25.03\41\bin\Debug\net7.0\41.dll
+E:\Тома\Учеба\Project\HW_25.03\41\bin\Debug\net7.0\41.pdb
+E:\Тома\Учеба\Project\HW_25.03\41\obj\Debug\net7.0\41.csproj.AssemblyReference.cache
+E:\Тома\Учеба\Project\HW_25.03\41\obj\Debug\net7.0\41.GeneratedMSBuildEditorConfig.editorconfig
+E:\Тома\Учеба\Project\HW_25.03\41\obj\Debug\net7.0\41.AssemblyInfoInputs.cache
+E:\Тома\Учеба\Project\HW_25.03\41\obj\Debug\net7.0\41.AssemblyInfo.cs
+E:\Тома\Учеба\Project\HW_25.03\41\obj\Debug\net7.0\41.csproj.CoreCompileInputs.cache
+E:\Тома\Учеба\Project\HW_25.03\41\obj\Debug\net7.0\41.dll
+E:\Тома\Учеба\Project\HW_25.03\41\obj\Debug\net7.0\refint\41.dll
+E:\Тома\Учеба\Project\HW_25.03\41\obj\Debug\net7.0\41.pdb
+E:\Тома\Учеба\Project\HW_25.03\41\obj\Debug\net7.0\41.genruntimeconfig.cache
+E:\Тома\Учеба\Project\HW_25.03\41\obj\Debug\net7.0\ref\41.dll
