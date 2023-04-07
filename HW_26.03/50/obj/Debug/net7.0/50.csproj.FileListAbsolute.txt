@@ -1,0 +1,15 @@
+E:\Тома\Учеба\Project\HW_26.03\50\bin\Debug\net7.0\50.exe
+E:\Тома\Учеба\Project\HW_26.03\50\bin\Debug\net7.0\50.deps.json
+E:\Тома\Учеба\Project\HW_26.03\50\bin\Debug\net7.0\50.runtimeconfig.json
+E:\Тома\Учеба\Project\HW_26.03\50\bin\Debug\net7.0\50.dll
+E:\Тома\Учеба\Project\HW_26.03\50\bin\Debug\net7.0\50.pdb
+E:\Тома\Учеба\Project\HW_26.03\50\obj\Debug\net7.0\50.csproj.AssemblyReference.cache
+E:\Тома\Учеба\Project\HW_26.03\50\obj\Debug\net7.0\50.GeneratedMSBuildEditorConfig.editorconfig
+E:\Тома\Учеба\Project\HW_26.03\50\obj\Debug\net7.0\50.AssemblyInfoInputs.cache
+E:\Тома\Учеба\Project\HW_26.03\50\obj\Debug\net7.0\50.AssemblyInfo.cs
+E:\Тома\Учеба\Project\HW_26.03\50\obj\Debug\net7.0\50.csproj.CoreCompileInputs.cache
+E:\Тома\Учеба\Project\HW_26.03\50\obj\Debug\net7.0\50.dll
+E:\Тома\Учеба\Project\HW_26.03\50\obj\Debug\net7.0\refint\50.dll
+E:\Тома\Учеба\Project\HW_26.03\50\obj\Debug\net7.0\50.pdb
+E:\Тома\Учеба\Project\HW_26.03\50\obj\Debug\net7.0\50.genruntimeconfig.cache
+E:\Тома\Учеба\Project\HW_26.03\50\obj\Debug\net7.0\ref\50.dll
