@@ -1,0 +1,15 @@
+E:\Тома\Учеба\Project\HW_25.03\43\obj\Debug\net7.0\43.csproj.AssemblyReference.cache
+E:\Тома\Учеба\Project\HW_25.03\43\obj\Debug\net7.0\43.GeneratedMSBuildEditorConfig.editorconfig
+E:\Тома\Учеба\Project\HW_25.03\43\obj\Debug\net7.0\43.AssemblyInfoInputs.cache
+E:\Тома\Учеба\Project\HW_25.03\43\obj\Debug\net7.0\43.AssemblyInfo.cs
+E:\Тома\Учеба\Project\HW_25.03\43\obj\Debug\net7.0\43.csproj.CoreCompileInputs.cache
+E:\Тома\Учеба\Project\HW_25.03\43\bin\Debug\net7.0\43.exe
+E:\Тома\Учеба\Project\HW_25.03\43\bin\Debug\net7.0\43.deps.json
+E:\Тома\Учеба\Project\HW_25.03\43\bin\Debug\net7.0\43.runtimeconfig.json
+E:\Тома\Учеба\Project\HW_25.03\43\bin\Debug\net7.0\43.dll
+E:\Тома\Учеба\Project\HW_25.03\43\bin\Debug\net7.0\43.pdb
+E:\Тома\Учеба\Project\HW_25.03\43\obj\Debug\net7.0\43.dll
+E:\Тома\Учеба\Project\HW_25.03\43\obj\Debug\net7.0\refint\43.dll
+E:\Тома\Учеба\Project\HW_25.03\43\obj\Debug\net7.0\43.pdb
+E:\Тома\Учеба\Project\HW_25.03\43\obj\Debug\net7.0\43.genruntimeconfig.cache
+E:\Тома\Учеба\Project\HW_25.03\43\obj\Debug\net7.0\ref\43.dll
