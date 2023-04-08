@@ -1,0 +1,15 @@
+E:\Тома\Учеба\Project\HW_01.04\54\58\obj\Debug\net7.0\58.csproj.AssemblyReference.cache
+E:\Тома\Учеба\Project\HW_01.04\54\58\obj\Debug\net7.0\58.GeneratedMSBuildEditorConfig.editorconfig
+E:\Тома\Учеба\Project\HW_01.04\54\58\obj\Debug\net7.0\58.AssemblyInfoInputs.cache
+E:\Тома\Учеба\Project\HW_01.04\54\58\obj\Debug\net7.0\58.AssemblyInfo.cs
+E:\Тома\Учеба\Project\HW_01.04\54\58\obj\Debug\net7.0\58.csproj.CoreCompileInputs.cache
+E:\Тома\Учеба\Project\HW_01.04\54\58\bin\Debug\net7.0\58.exe
+E:\Тома\Учеба\Project\HW_01.04\54\58\bin\Debug\net7.0\58.deps.json
+E:\Тома\Учеба\Project\HW_01.04\54\58\bin\Debug\net7.0\58.runtimeconfig.json
+E:\Тома\Учеба\Project\HW_01.04\54\58\bin\Debug\net7.0\58.dll
+E:\Тома\Учеба\Project\HW_01.04\54\58\bin\Debug\net7.0\58.pdb
+E:\Тома\Учеба\Project\HW_01.04\54\58\obj\Debug\net7.0\58.dll
+E:\Тома\Учеба\Project\HW_01.04\54\58\obj\Debug\net7.0\refint\58.dll
+E:\Тома\Учеба\Project\HW_01.04\54\58\obj\Debug\net7.0\58.pdb
+E:\Тома\Учеба\Project\HW_01.04\54\58\obj\Debug\net7.0\58.genruntimeconfig.cache
+E:\Тома\Учеба\Project\HW_01.04\54\58\obj\Debug\net7.0\ref\58.dll

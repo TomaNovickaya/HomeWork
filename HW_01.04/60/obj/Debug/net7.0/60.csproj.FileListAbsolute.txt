@@ -1,0 +1,15 @@
+E:\Тома\Учеба\Project\HW_01.04\60\bin\Debug\net7.0\60.exe
+E:\Тома\Учеба\Project\HW_01.04\60\bin\Debug\net7.0\60.deps.json
+E:\Тома\Учеба\Project\HW_01.04\60\bin\Debug\net7.0\60.runtimeconfig.json
+E:\Тома\Учеба\Project\HW_01.04\60\bin\Debug\net7.0\60.dll
+E:\Тома\Учеба\Project\HW_01.04\60\bin\Debug\net7.0\60.pdb
+E:\Тома\Учеба\Project\HW_01.04\60\obj\Debug\net7.0\60.csproj.AssemblyReference.cache
+E:\Тома\Учеба\Project\HW_01.04\60\obj\Debug\net7.0\60.GeneratedMSBuildEditorConfig.editorconfig
+E:\Тома\Учеба\Project\HW_01.04\60\obj\Debug\net7.0\60.AssemblyInfoInputs.cache
+E:\Тома\Учеба\Project\HW_01.04\60\obj\Debug\net7.0\60.AssemblyInfo.cs
+E:\Тома\Учеба\Project\HW_01.04\60\obj\Debug\net7.0\60.csproj.CoreCompileInputs.cache
+E:\Тома\Учеба\Project\HW_01.04\60\obj\Debug\net7.0\60.dll
+E:\Тома\Учеба\Project\HW_01.04\60\obj\Debug\net7.0\refint\60.dll
+E:\Тома\Учеба\Project\HW_01.04\60\obj\Debug\net7.0\60.pdb
+E:\Тома\Учеба\Project\HW_01.04\60\obj\Debug\net7.0\60.genruntimeconfig.cache
+E:\Тома\Учеба\Project\HW_01.04\60\obj\Debug\net7.0\ref\60.dll
